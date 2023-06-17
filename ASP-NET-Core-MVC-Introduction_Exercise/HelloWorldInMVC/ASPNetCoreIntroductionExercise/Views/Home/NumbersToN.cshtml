@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "Nums 1 ... " + ViewBag.Count;
+}
+
+
+<div class="justify-content-center">
+    <h1>@ViewBag.Title</h1>
+</div>
+@if (String.IsNullOrEmpty(ViewBag.Message))
+{
+    <ul>
+        @foreach(var num in ViewBag.Numbers)
+        {
+            <li>@num</li>
+        }
+    </ul>
+}
+else
+{
+    <h2>@ViewBag.Message</h2>
+    ViewBag.Message = string.Empty;
+}
+<form method="post">
+    <div class="border-success">
+        <p>Count to: </p>
+        <input class="center" name="count" />
+        <button>Submit</button>
+    </div>
+
+</form>

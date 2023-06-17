@@ -1,0 +1,17 @@
+C:\Users\Niki\source\repos\ChatAppSoftUni\ChatAppSoftUni.Core\bin\Debug\net6.0\ChatAppSoftUni.Core.deps.json
+C:\Users\Niki\source\repos\ChatAppSoftUni\ChatAppSoftUni.Core\bin\Debug\net6.0\ChatAppSoftUni.Core.runtimeconfig.json
+C:\Users\Niki\source\repos\ChatAppSoftUni\ChatAppSoftUni.Core\bin\Debug\net6.0\ChatAppSoftUni.Core.dll
+C:\Users\Niki\source\repos\ChatAppSoftUni\ChatAppSoftUni.Core\bin\Debug\net6.0\ChatAppSoftUni.Core.pdb
+C:\Users\Niki\source\repos\ChatAppSoftUni\ChatAppSoftUni.Core\bin\Debug\net6.0\ChatAppSoftUni.Infrastructure.dll
+C:\Users\Niki\source\repos\ChatAppSoftUni\ChatAppSoftUni.Core\bin\Debug\net6.0\ChatAppSoftUni.Infrastructure.pdb
+C:\Users\Niki\source\repos\ChatAppSoftUni\ChatAppSoftUni.Core\obj\Debug\net6.0\ChatAppSoftUni.Core.csproj.AssemblyReference.cache
+C:\Users\Niki\source\repos\ChatAppSoftUni\ChatAppSoftUni.Core\obj\Debug\net6.0\ChatAppSoftUni.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niki\source\repos\ChatAppSoftUni\ChatAppSoftUni.Core\obj\Debug\net6.0\ChatAppSoftUni.Core.AssemblyInfoInputs.cache
+C:\Users\Niki\source\repos\ChatAppSoftUni\ChatAppSoftUni.Core\obj\Debug\net6.0\ChatAppSoftUni.Core.AssemblyInfo.cs
+C:\Users\Niki\source\repos\ChatAppSoftUni\ChatAppSoftUni.Core\obj\Debug\net6.0\ChatAppSoftUni.Core.csproj.CoreCompileInputs.cache
+C:\Users\Niki\source\repos\ChatAppSoftUni\ChatAppSoftUni.Core\obj\Debug\net6.0\ChatAppSoftUni.Core.csproj.CopyComplete
+C:\Users\Niki\source\repos\ChatAppSoftUni\ChatAppSoftUni.Core\obj\Debug\net6.0\ChatAppSoftUni.Core.dll
+C:\Users\Niki\source\repos\ChatAppSoftUni\ChatAppSoftUni.Core\obj\Debug\net6.0\refint\ChatAppSoftUni.Core.dll
+C:\Users\Niki\source\repos\ChatAppSoftUni\ChatAppSoftUni.Core\obj\Debug\net6.0\ChatAppSoftUni.Core.pdb
+C:\Users\Niki\source\repos\ChatAppSoftUni\ChatAppSoftUni.Core\obj\Debug\net6.0\ChatAppSoftUni.Core.genruntimeconfig.cache
+C:\Users\Niki\source\repos\ChatAppSoftUni\ChatAppSoftUni.Core\obj\Debug\net6.0\ref\ChatAppSoftUni.Core.dll
