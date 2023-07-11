@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mph2EJWcw/Vd1u4bi6pFdBeZYdlu0+0HRhMAm8vmTXCChIWs6cwtykOcUvKlVAYMpm1QlWj10JebsZLIShraQg==",
+  "dgSpecHash": "ykaC59gEHBPC2OMC0u/xANAJAFx6ofFtYuxI42YV9s9CMK4Oe84z8K2dFcul+OvB1hYE67lQdC+GcrOMrRWecw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Niki\\Desktop\\Homies_Skeleton\\Homies\\Homies.csproj",
+  "projectFilePath": "E:\\SoftUni\\SoftUni-ASP_Fundamentals\\Exam 17.06.2023\\Homies_Skeleton\\Homies\\Homies.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Niki\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Niki\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

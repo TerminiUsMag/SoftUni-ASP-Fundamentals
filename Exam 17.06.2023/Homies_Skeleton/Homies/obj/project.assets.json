@@ -11193,11 +11193,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Niki\\Desktop\\Homies_Skeleton\\Homies\\Homies.csproj",
+      "projectUniqueName": "E:\\SoftUni\\SoftUni-ASP_Fundamentals\\Exam 17.06.2023\\Homies_Skeleton\\Homies\\Homies.csproj",
       "projectName": "Homies",
-      "projectPath": "C:\\Users\\Niki\\Desktop\\Homies_Skeleton\\Homies\\Homies.csproj",
+      "projectPath": "E:\\SoftUni\\SoftUni-ASP_Fundamentals\\Exam 17.06.2023\\Homies_Skeleton\\Homies\\Homies.csproj",
       "packagesPath": "C:\\Users\\Niki\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Niki\\Desktop\\Homies_Skeleton\\Homies\\obj\\",
+      "outputPath": "E:\\SoftUni\\SoftUni-ASP_Fundamentals\\Exam 17.06.2023\\Homies_Skeleton\\Homies\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Niki\\AppData\\Roaming\\NuGet\\NuGet.Config",
